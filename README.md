@@ -1,4 +1,4 @@
-![Header](https://github.com/Marjon-art/Marjon-art/blob/main/assets/10402202246244461.gif)
+![Header](https://github.com/Marjon-art/Marjon-art/blob/main/assets/10402202246244461.gif )
 
 ## Я Frontend-Developer
 
@@ -11,4 +11,3 @@
 ![Node.js]( https://img.shields.io/badge/Node.js-black)
 ![Git]( https://img.shields.io/badge/Git-black)
 
-Follow Me
